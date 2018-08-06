@@ -7,3 +7,7 @@ To run this program:
 where:<br/>
 `<filename>` refers to the file with the partially completed grid<br/>
 `<population size>` refers to the chosen population size for the current experiment
+
+<br/>
+
+![img](https://github.com/sam-adefioye/project-images/blob/master/ga-ss-1.gif)
